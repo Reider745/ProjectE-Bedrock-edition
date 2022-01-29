@@ -1,0 +1,10 @@
+covDust1:0===1
+covDust2:0===8
+covDust3:0===208
+fuelAlchemical:0===512
+fuelMobius:0===2048
+fuelAstral:0===8192
+darkMatter:0===139264
+redMatter:0===466944
+kleinStar1:27===24576
+ironBand:0===2048

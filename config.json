@@ -1,0 +1,6 @@
+{
+	"enabled":true,
+	"event_emc_load":"LevelLoaded",
+	"color_emc":"5",
+	"emc_auto_definition":true
+}

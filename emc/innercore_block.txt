@@ -1,0 +1,12 @@
+interdiction_torch:0===245062
+antimatterRelay3:0===681281
+antimatterRelay2:0===213889
+antimatterRelay1:0===74177
+energyCollector1:0===82953
+energyCollector2:0===232969
+energyCollector3:0===710665
+energyCondenser1:0===42011
+transmutationTablet:0===260
+dmBlock:0===139264*4
+rmBlock:0===466944*4
+alchChest:0===8987

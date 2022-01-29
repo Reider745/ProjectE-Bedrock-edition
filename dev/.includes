@@ -1,0 +1,39 @@
+header.js
+translations.js
+
+models/chest_0.js
+models/chest_1.js
+models/chest_2.js
+models/chest_3.js
+models/table.js
+models/pedestal.js
+
+api/ItemName.js
+api/Core.js
+api/Table.js
+api/Pedestal.js
+api/multiplayer.js
+
+blocks/collector.js
+blocks/relay.js
+blocks/condenser.js
+blocks/chest.js
+blocks/table.js
+
+pedestal/pedestal.js
+pedestal/soul stone.js
+pedestal/time watch.js
+
+items/alchemical.js
+items/gem.js
+items/hammers.js
+items/klein stars.js
+items/matter.js
+
+other.js
+recipes.js
+command.js
+
+integration/RecipeViewer.js
+
+api/shared.js
